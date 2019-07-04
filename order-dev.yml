@@ -11,3 +11,6 @@ spring:
 
 env:
   dev4
+girl:
+  name: lili
+  age: 20
