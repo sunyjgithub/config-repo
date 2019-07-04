@@ -10,4 +10,4 @@ spring:
     name: order
 
 env:
-  dev
+  dev2
